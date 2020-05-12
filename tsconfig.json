@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "outDir": "./build",
+        "allowJs": true,
+        "module": "commonjs",
+        "target": "es2020",
+        "sourceMap": true,
+        "removeComments": true,
+    },
+    "files": [
+        "./node_modules/log4js/types/log4js.d.ts",
+        "./node_modules/discord.js/typings/index.d.ts",
+    ],
+    "include": [
+        "./src/**/*",
+        "./config/**/*",
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

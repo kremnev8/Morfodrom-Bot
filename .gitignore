@@ -1,0 +1,18 @@
+#workspace stuff
+.vs/*
+.vscode/*
+.env
+.eslintrc.json
+.jsbeautifyrc
+bot.code-workspace
+
+#unneeded folders
+build/*
+JSVersion/*
+node_modules/*
+.git/*
+
+#no config
+/config/*
+!/config/config.json
+!/config/jokes.json

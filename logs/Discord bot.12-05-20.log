@@ -1,0 +1,1008 @@
+[2020-05-12T10:43:44.348] [INFO] default - Started Discord bot process
+[2020-05-12T10:43:44.385] [INFO] default - Running experemental code, version 22
+[2020-05-12T10:43:44.388] [ERROR] default - Hash: fba958cc7c8d4cc6a793cca38c0826dd of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T10:43:44.390] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T10:43:44.391] [ERROR] default - Hash: e3cbfd0794cf1ec61bfc35977487f79c of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T10:43:44.392] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T10:43:44.393] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T10:43:44.398] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T10:43:44.694] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T10:43:44.694] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 985
+[2020-05-12T10:43:44.697] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T10:43:44.699] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T10:43:44.700] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T10:43:45.057] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 356ms
+[2020-05-12T10:43:45.060] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T10:43:45.061] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T10:43:45.063] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T10:43:45.266] [DEBUG] discord4j - [WS => Shard 0] [READY] Session b306afb4dd04074701f7bd349168f77b.
+[2020-05-12T10:43:45.534] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T10:43:45.535] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T10:44:21.911] [DEBUG] default - Command getalias has been executed successfully!
+[2020-05-12T10:44:43.610] [INFO] default - User pressed CTRL + C, Terminating.
+[2020-05-12T15:17:11.996] [INFO] default - Started Discord bot process
+[2020-05-12T15:17:12.041] [INFO] default - Running experemental code, version 22
+[2020-05-12T15:17:12.046] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T15:17:12.049] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T15:17:12.051] [ERROR] default - Hash: 928d278562eec57891407a3691d9c931 of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T15:17:12.054] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T15:17:12.057] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T15:17:12.061] [ERROR] default - Hash: ccb157fc9386275491dba8947ef98543 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T15:17:12.065] [ERROR] default - Hash: 2d454ac2ef54ed268122abb1ab568c1a of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T15:17:12.067] [ERROR] default - Hash: 7152ec6874e183e62464fd03f0a2ddf1 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T15:17:12.069] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T15:17:12.072] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T15:17:12.075] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T15:17:12.077] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T15:17:12.079] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T15:17:12.081] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T15:17:12.083] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T15:17:12.086] [ERROR] default - Hash: da6dec4fdcb056ae97ee90f447447019 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T15:17:12.088] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T15:17:12.089] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T15:17:12.091] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T15:17:12.094] [ERROR] default - Hash: c661ff19e98069882e7de8688f5b9e9f of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T15:17:12.097] [ERROR] default - Hash: 062310b0a83adb31b4ec461f19adf950 of voicelogger.js does not match undefined!
+[2020-05-12T15:17:12.101] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T15:17:12.102] [ERROR] default - Hash: 202b428349688cd0703707907414912d of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T15:17:12.103] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T15:17:12.104] [ERROR] default - Hash: ad80f4abae98638ed9d8b0e06c1e089c of index.js does not match undefined!
+[2020-05-12T15:17:12.107] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T15:17:12.115] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T15:17:12.445] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T15:17:12.445] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 1000
+[2020-05-12T15:17:12.448] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T15:17:12.450] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T15:17:12.451] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T15:17:12.799] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 348ms
+[2020-05-12T15:17:12.802] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T15:17:12.803] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T15:17:12.805] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T15:17:13.051] [DEBUG] discord4j - [WS => Shard 0] [READY] Session 635514f66ca28853df7cc016827b4d40.
+[2020-05-12T15:17:13.330] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T15:17:13.332] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T15:17:13.350] [WARN] default - Error: ENOENT: no such file or directory, open 'voicelog.json'
+    at Object.openSync (fs.js:461:3)
+    at Object.loadJson (C:\Users\Ilya-PC\Desktop\discordbot2.0\build\utilites.js:19:25)
+    at VoiceLoggger.init (C:\Users\Ilya-PC\Desktop\discordbot2.0\build\modules\voicelogger.js:13:35)
+    at C:\Users\Ilya-PC\Desktop\discordbot2.0\build\bot.js:142:24
+    at Map.forEach (<anonymous>)
+    at Map.each (C:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\@discordjs\collection\dist\index.js:281:14)
+    at initModules (C:\Users\Ilya-PC\Desktop\discordbot2.0\build\bot.js:139:20)
+    at ClientImpl.<anonymous> (C:\Users\Ilya-PC\Desktop\discordbot2.0\build\bot.js:136:5)
+    at ClientImpl.emit (events.js:315:20)
+    at WebSocketManager.triggerClientReady (C:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\WebSocketManager.js:433:17) {
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'voicelog.json'
+}
+[2020-05-12T15:17:14.522] [INFO] default - Constants initialized:
+[2020-05-12T15:17:14.522] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T15:17:14.527] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T15:18:36.785] [INFO] default - User pressed CTRL + C, Terminating.
+[2020-05-12T15:20:43.322] [INFO] default - Started Discord bot process
+[2020-05-12T15:20:43.354] [INFO] default - Running experemental code, version 22
+[2020-05-12T15:20:43.358] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T15:20:43.361] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T15:20:43.363] [ERROR] default - Hash: 928d278562eec57891407a3691d9c931 of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T15:20:43.365] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T15:20:43.368] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T15:20:43.370] [ERROR] default - Hash: ccb157fc9386275491dba8947ef98543 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T15:20:43.372] [ERROR] default - Hash: 2d454ac2ef54ed268122abb1ab568c1a of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T15:20:43.375] [ERROR] default - Hash: 7152ec6874e183e62464fd03f0a2ddf1 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T15:20:43.376] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T15:20:43.382] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T15:20:43.384] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T15:20:43.386] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T15:20:43.389] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T15:20:43.391] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T15:20:43.392] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T15:20:43.393] [ERROR] default - Hash: da6dec4fdcb056ae97ee90f447447019 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T15:20:43.395] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T15:20:43.396] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T15:20:43.398] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T15:20:43.402] [ERROR] default - Hash: c661ff19e98069882e7de8688f5b9e9f of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T15:20:43.406] [ERROR] default - Hash: b243cdf6061198c5b537cb15d710d5e9 of voicelogger.js does not match undefined!
+[2020-05-12T15:20:43.408] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T15:20:43.408] [ERROR] default - Hash: 202b428349688cd0703707907414912d of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T15:20:43.408] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T15:20:43.411] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T15:20:43.413] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T15:20:43.420] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T15:20:43.679] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T15:20:43.680] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 999
+[2020-05-12T15:20:43.682] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T15:20:43.684] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T15:20:43.684] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T15:20:44.045] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 360ms
+[2020-05-12T15:20:44.047] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T15:20:44.048] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T15:20:44.049] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T15:20:44.292] [DEBUG] discord4j - [WS => Shard 0] [READY] Session 66ff549690053298108053c3bd7cf94c.
+[2020-05-12T15:20:44.929] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T15:20:44.930] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T15:20:45.545] [INFO] default - Constants initialized:
+[2020-05-12T15:20:45.546] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T15:20:45.549] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T15:25:04.311] [DEBUG] default - Command getalias has been executed successfully!
+[2020-05-12T15:25:08.747] [ERROR] default - TypeError: Cannot read property 'permlevel' of undefined
+    at Object.isCommand (C:\Users\Ilya-PC\Desktop\discordbot2.0\build\utilites.js:9:20)
+    at ClientImpl.<anonymous> (C:\Users\Ilya-PC\Desktop\discordbot2.0\build\bot.js:174:14)
+    at ClientImpl.emit (events.js:315:20)
+    at MessageCreateAction.handle (C:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (C:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\WebSocketManager.js:386:31)
+    at WebSocketShard.onPacket (C:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\WebSocketShard.js:436:22)
+    at WebSocketShard.onMessage (C:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\WebSocketShard.js:293:10)
+    at WebSocket.onMessage (C:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\ws\lib\event-target.js:120:16)
+    at WebSocket.emit (events.js:315:20) Uncaught Exception thrown
+[2020-05-12T15:26:48.086] [INFO] default - Started Discord bot process
+[2020-05-12T15:26:48.123] [INFO] default - Running experemental code, version 22
+[2020-05-12T15:26:48.127] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T15:26:48.129] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T15:26:48.131] [ERROR] default - Hash: 928d278562eec57891407a3691d9c931 of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T15:26:48.134] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T15:26:48.136] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T15:26:48.137] [ERROR] default - Hash: ccb157fc9386275491dba8947ef98543 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T15:26:48.139] [ERROR] default - Hash: 2d454ac2ef54ed268122abb1ab568c1a of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T15:26:48.140] [ERROR] default - Hash: 7152ec6874e183e62464fd03f0a2ddf1 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T15:26:48.141] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T15:26:48.144] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T15:26:48.146] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T15:26:48.148] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T15:26:48.150] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T15:26:48.153] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T15:26:48.153] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T15:26:48.155] [ERROR] default - Hash: da6dec4fdcb056ae97ee90f447447019 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T15:26:48.156] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T15:26:48.159] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T15:26:48.160] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T15:26:48.162] [ERROR] default - Hash: c661ff19e98069882e7de8688f5b9e9f of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T15:26:48.164] [ERROR] default - Hash: b243cdf6061198c5b537cb15d710d5e9 of voicelogger.js does not match undefined!
+[2020-05-12T15:26:48.167] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T15:26:48.168] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T15:26:48.168] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T15:26:48.170] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T15:26:48.170] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T15:26:48.177] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T15:26:48.469] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T15:26:48.471] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 998
+[2020-05-12T15:26:48.471] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T15:26:48.472] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T15:26:48.472] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T15:26:48.824] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 352ms
+[2020-05-12T15:26:48.827] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T15:26:48.827] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T15:26:48.828] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T15:26:49.037] [DEBUG] discord4j - [WS => Shard 0] [READY] Session 0cd18d369f6887bff83ee1f95f97cec6.
+[2020-05-12T15:26:49.308] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T15:26:49.308] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T15:26:49.836] [INFO] default - Constants initialized:
+[2020-05-12T15:26:49.836] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T15:26:49.837] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T15:28:03.341] [INFO] default - Started Discord bot process
+[2020-05-12T15:28:03.375] [INFO] default - Running experemental code, version 22
+[2020-05-12T15:28:03.378] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T15:28:03.380] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T15:28:03.381] [ERROR] default - Hash: e9be1502918de590585a51cfc73bc55b of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T15:28:03.384] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T15:28:03.385] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T15:28:03.388] [ERROR] default - Hash: ccb157fc9386275491dba8947ef98543 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T15:28:03.389] [ERROR] default - Hash: 2d454ac2ef54ed268122abb1ab568c1a of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T15:28:03.390] [ERROR] default - Hash: 7152ec6874e183e62464fd03f0a2ddf1 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T15:28:03.392] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T15:28:03.394] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T15:28:03.396] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T15:28:03.397] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T15:28:03.399] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T15:28:03.401] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T15:28:03.402] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T15:28:03.403] [ERROR] default - Hash: da6dec4fdcb056ae97ee90f447447019 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T15:28:03.406] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T15:28:03.408] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T15:28:03.409] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T15:28:03.411] [ERROR] default - Hash: c661ff19e98069882e7de8688f5b9e9f of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T15:28:03.412] [ERROR] default - Hash: b243cdf6061198c5b537cb15d710d5e9 of voicelogger.js does not match undefined!
+[2020-05-12T15:28:03.414] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T15:28:03.415] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T15:28:03.415] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T15:28:03.416] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T15:28:03.416] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T15:28:03.424] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T15:28:03.691] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T15:28:03.691] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 997
+[2020-05-12T15:28:03.691] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T15:28:03.692] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T15:28:03.692] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T15:28:04.036] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 343ms
+[2020-05-12T15:28:04.038] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T15:28:04.038] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T15:28:04.038] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T15:28:04.291] [DEBUG] discord4j - [WS => Shard 0] [READY] Session 1f74358be2b08d3424e293b3f27c0084.
+[2020-05-12T15:28:04.571] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T15:28:04.571] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T15:28:05.650] [INFO] default - Constants initialized:
+[2020-05-12T15:28:05.651] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T15:28:05.652] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T15:29:12.165] [DEBUG] default - There was an error while executing command help!
+[2020-05-12T15:29:12.165] [ERROR] default - TypeError: Cannot read property 'each' of undefined
+    at Help.execute (c:\Users\Ilya-PC\Desktop\discordbot2.0\build\modules\help.js:21:29)
+    at ClientImpl.<anonymous> (c:\Users\Ilya-PC\Desktop\discordbot2.0\build\bot.js:230:37)
+    at ClientImpl.emit (events.js:315:20)
+    at MessageCreateAction.handle (c:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\actions\MessageCreate.js:31:14)
+    at Object.module.exports [as MESSAGE_CREATE] (c:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (c:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\WebSocketManager.js:386:31)
+    at WebSocketShard.onPacket (c:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\WebSocketShard.js:436:22)
+    at WebSocketShard.onMessage (c:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\discord.js\src\client\websocket\WebSocketShard.js:293:10)
+    at WebSocket.onMessage (c:\Users\Ilya-PC\Desktop\discordbot2.0\node_modules\ws\lib\event-target.js:120:16)
+    at WebSocket.emit (events.js:315:20)
+[2020-05-12T15:31:27.491] [INFO] default - Started Discord bot process
+[2020-05-12T15:31:27.523] [INFO] default - Running experemental code, version 22
+[2020-05-12T15:31:27.526] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T15:31:27.529] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T15:31:27.530] [ERROR] default - Hash: c8de9a230342e5ffdd8701d2513fc19b of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T15:31:27.533] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T15:31:27.534] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T15:31:27.536] [ERROR] default - Hash: ccb157fc9386275491dba8947ef98543 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T15:31:27.537] [ERROR] default - Hash: 2d454ac2ef54ed268122abb1ab568c1a of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T15:31:27.537] [ERROR] default - Hash: 7152ec6874e183e62464fd03f0a2ddf1 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T15:31:27.539] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T15:31:27.541] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T15:31:27.543] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T15:31:27.544] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T15:31:27.545] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T15:31:27.548] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T15:31:27.549] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T15:31:27.549] [ERROR] default - Hash: da6dec4fdcb056ae97ee90f447447019 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T15:31:27.552] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T15:31:27.553] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T15:31:27.554] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T15:31:27.556] [ERROR] default - Hash: c661ff19e98069882e7de8688f5b9e9f of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T15:31:27.557] [ERROR] default - Hash: b243cdf6061198c5b537cb15d710d5e9 of voicelogger.js does not match undefined!
+[2020-05-12T15:31:27.558] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T15:31:27.559] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T15:31:27.559] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T15:31:27.559] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T15:31:27.561] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T15:31:27.567] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T15:31:27.911] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T15:31:27.911] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 996
+[2020-05-12T15:31:27.911] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T15:31:27.913] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T15:31:27.913] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T15:31:28.263] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 350ms
+[2020-05-12T15:31:28.266] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T15:31:28.267] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T15:31:28.267] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T15:31:28.486] [DEBUG] discord4j - [WS => Shard 0] [READY] Session 2f871ca6c2df143cb283f0c760b1f173.
+[2020-05-12T15:31:29.116] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T15:31:29.118] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T15:31:29.658] [INFO] default - Constants initialized:
+[2020-05-12T15:31:29.659] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T15:31:29.660] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T15:31:33.860] [DEBUG] default - Command help has been executed successfully!
+[2020-05-12T15:35:54.216] [INFO] default - Started Discord bot process
+[2020-05-12T15:35:54.259] [INFO] default - Running experemental code, version 22
+[2020-05-12T15:35:54.263] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T15:35:54.268] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T15:35:54.271] [ERROR] default - Hash: c8de9a230342e5ffdd8701d2513fc19b of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T15:35:54.274] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T15:35:54.276] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T15:35:54.279] [ERROR] default - Hash: 09ce3a8456faf1fdd220c7dfdc260f31 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T15:35:54.281] [ERROR] default - Hash: d02932a9af04b6677071a0c2334fc0b3 of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T15:35:54.282] [ERROR] default - Hash: dc80355d1e230cbdaf3c2df54722d7a5 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T15:35:54.284] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T15:35:54.287] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T15:35:54.289] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T15:35:54.293] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T15:35:54.295] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T15:35:54.297] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T15:35:54.299] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T15:35:54.301] [ERROR] default - Hash: 57c79332ef0de707fd91e140891e0221 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T15:35:54.303] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T15:35:54.304] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T15:35:54.305] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T15:35:54.307] [ERROR] default - Hash: cbf1fe32d2ee026d24548059d3c9c269 of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T15:35:54.309] [ERROR] default - Hash: b243cdf6061198c5b537cb15d710d5e9 of voicelogger.js does not match undefined!
+[2020-05-12T15:35:54.312] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T15:35:54.313] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T15:35:54.313] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T15:35:54.314] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T15:35:54.314] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T15:35:54.324] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T15:35:54.593] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T15:35:54.593] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 995
+[2020-05-12T15:35:54.593] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T15:35:54.595] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T15:35:54.595] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T15:35:54.962] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 367ms
+[2020-05-12T15:35:54.964] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T15:35:54.964] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T15:35:54.964] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T15:35:55.162] [DEBUG] discord4j - [WS => Shard 0] [READY] Session 3d8ed6c0cca21de87b2842dec7f1181a.
+[2020-05-12T15:35:55.430] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T15:35:55.430] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T15:35:55.975] [INFO] default - Constants initialized:
+[2020-05-12T15:35:55.975] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T15:35:55.976] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T15:36:02.635] [DEBUG] default - Command help has been executed successfully!
+[2020-05-12T15:36:37.387] [DEBUG] default - Command help has been executed successfully!
+[2020-05-12T15:36:45.470] [DEBUG] default - Command help has been executed successfully!
+[2020-05-12T15:36:53.001] [DEBUG] default - Command joke has been executed successfully!
+[2020-05-12T15:37:03.005] [DEBUG] default - Command lang has been executed successfully!
+[2020-05-12T15:37:10.561] [DEBUG] default - Command listusers has been executed successfully!
+[2020-05-12T15:37:51.926] [DEBUG] default - Command loguser has been executed successfully!
+[2020-05-12T15:37:55.833] [DEBUG] default - Clan member Test should be promoted now.
+[2020-05-12T15:37:59.065] [DEBUG] default - Command ping has been executed successfully!
+[2020-05-12T15:38:19.704] [DEBUG] default - There was an error while executing command powerup!
+[2020-05-12T15:38:31.149] [DEBUG] default - Command purge has been executed successfully!
+[2020-05-12T15:38:58.046] [DEBUG] default - Command sendembed has been executed successfully!
+[2020-05-12T15:39:59.651] [DEBUG] default - Command sendembed has been executed successfully!
+[2020-05-12T15:40:31.492] [DEBUG] default - Command setalias has been executed successfully!
+[2020-05-12T15:40:46.441] [DEBUG] default - Command getalias has been executed successfully!
+[2020-05-12T15:40:54.848] [DEBUG] default - There was an error while executing command setalias!
+[2020-05-12T15:41:09.816] [DEBUG] default - Command setalias has been executed successfully!
+[2020-05-12T15:41:33.358] [DEBUG] default - Command submit has been executed successfully!
+[2020-05-12T15:41:33.360] [INFO] default - new joke was submited by Kremnev8
+[2020-05-12T15:41:38.120] [DEBUG] default - Command joke has been executed successfully!
+[2020-05-12T15:44:07.149] [INFO] default - Started Discord bot process
+[2020-05-12T15:44:07.180] [INFO] default - Running experemental code, version 22
+[2020-05-12T15:44:07.184] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T15:44:07.186] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T15:44:07.187] [ERROR] default - Hash: c8de9a230342e5ffdd8701d2513fc19b of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T15:44:07.188] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T15:44:07.190] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T15:44:07.191] [ERROR] default - Hash: 09ce3a8456faf1fdd220c7dfdc260f31 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T15:44:07.193] [ERROR] default - Hash: d02932a9af04b6677071a0c2334fc0b3 of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T15:44:07.194] [ERROR] default - Hash: dc80355d1e230cbdaf3c2df54722d7a5 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T15:44:07.194] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T15:44:07.198] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T15:44:07.199] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T15:44:07.200] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T15:44:07.202] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T15:44:07.203] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T15:44:07.205] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T15:44:07.206] [ERROR] default - Hash: 0bdcf96cef1ae3a5974413abcd63c1c3 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T15:44:07.207] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T15:44:07.209] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T15:44:07.210] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T15:44:07.211] [ERROR] default - Hash: cbf1fe32d2ee026d24548059d3c9c269 of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T15:44:07.213] [ERROR] default - Hash: b243cdf6061198c5b537cb15d710d5e9 of voicelogger.js does not match undefined!
+[2020-05-12T15:44:07.214] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T15:44:07.215] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T15:44:07.215] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T15:44:07.216] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T15:44:07.216] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T15:44:07.223] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T15:44:07.462] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T15:44:07.462] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 994
+[2020-05-12T15:44:07.463] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T15:44:07.464] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T15:44:07.464] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T15:44:07.820] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 355ms
+[2020-05-12T15:44:07.822] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T15:44:07.822] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T15:44:07.822] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T15:44:08.034] [DEBUG] discord4j - [WS => Shard 0] [READY] Session e75b6b4a398d479c2540cc14c433a6a6.
+[2020-05-12T15:44:08.294] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T15:44:08.295] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T15:44:08.991] [INFO] default - Constants initialized:
+[2020-05-12T15:44:08.992] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T15:44:08.993] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T15:44:42.560] [DEBUG] default - Command submit has been executed successfully!
+[2020-05-12T15:44:42.564] [INFO] default - new joke was submited by Kremnev8
+[2020-05-12T15:44:46.706] [DEBUG] default - Command joke has been executed successfully!
+[2020-05-12T15:45:19.472] [DEBUG] default - Command syncnames has been executed successfully!
+[2020-05-12T15:45:26.310] [INFO] default - Presence {
+  userID: '107545846580531200',
+  guild: <ref *1> Guild {
+    members: GuildMemberManager {
+      cacheType: [Function: Collection],
+      cache: [Collection [Map]],
+      guild: [Circular *1]
+    },
+    channels: GuildChannelManager {
+      cacheType: [Function: Collection],
+      cache: [Collection [Map]],
+      guild: [Circular *1]
+    },
+    roles: RoleManager {
+      cacheType: [Function: Collection],
+      cache: [Collection [Map]],
+      guild: [Circular *1]
+    },
+    presences: PresenceManager {
+      cacheType: [Function: Collection],
+      cache: [Collection [Map]]
+    },
+    voiceStates: VoiceStateManager {
+      cacheType: [Function: Collection],
+      cache: Collection(0) [Map] {},
+      guild: [Circular *1]
+    },
+    deleted: false,
+    available: true,
+    id: '341605955596713989',
+    shardID: 0,
+    name: 'Morfodrom - archive',
+    icon: null,
+    splash: null,
+    region: 'russia',
+    memberCount: 25,
+    large: false,
+    features: [],
+    applicationID: null,
+    afkTimeout: 900,
+    afkChannelID: '341816953717129227',
+    systemChannelID: '341815966100881410',
+    embedEnabled: undefined,
+    premiumTier: 0,
+    premiumSubscriptionCount: 0,
+    verificationLevel: 'MEDIUM',
+    explicitContentFilter: 'MEMBERS_WITHOUT_ROLES',
+    mfaLevel: 0,
+    joinedTimestamp: 1501606046320,
+    defaultMessageNotifications: 'ALL',
+    systemChannelFlags: SystemChannelFlags { bitfield: 0 },
+    vanityURLCode: null,
+    description: null,
+    banner: null,
+    rulesChannelID: null,
+    publicUpdatesChannelID: null,
+    ownerID: '107545846580531200',
+    emojis: GuildEmojiManager {
+      cacheType: [Function: Collection],
+      cache: Collection(0) [Map] {},
+      guild: [Circular *1]
+    }
+  },
+  status: 'online',
+  activities: [],
+  clientStatus: { desktop: 'online' }
+}
+[2020-05-12T15:45:26.312] [DEBUG] default - Command test has been executed successfully!
+[2020-05-12T15:45:59.533] [DEBUG] default - Command userinfo has been executed successfully!
+[2020-05-12T15:46:23.019] [DEBUG] default - Command voicelog has been executed successfully!
+[2020-05-12T16:29:37.553] [INFO] default - Started Discord bot process
+[2020-05-12T16:29:37.609] [INFO] default - Running experemental code, version 22
+[2020-05-12T16:29:37.613] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T16:29:37.617] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T16:29:37.619] [ERROR] default - Hash: c8de9a230342e5ffdd8701d2513fc19b of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T16:29:37.622] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T16:29:37.623] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T16:29:37.625] [ERROR] default - Hash: 09ce3a8456faf1fdd220c7dfdc260f31 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T16:29:37.628] [ERROR] default - Hash: d02932a9af04b6677071a0c2334fc0b3 of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T16:29:37.631] [ERROR] default - Hash: dc80355d1e230cbdaf3c2df54722d7a5 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T16:29:37.633] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T16:29:37.638] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T16:29:37.640] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T16:29:37.643] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T16:29:37.645] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T16:29:37.647] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T16:29:37.652] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T16:29:37.655] [ERROR] default - Hash: 0bdcf96cef1ae3a5974413abcd63c1c3 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T16:29:37.707] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T16:29:37.710] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T16:29:37.712] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T16:29:37.715] [ERROR] default - Hash: cbf1fe32d2ee026d24548059d3c9c269 of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T16:29:37.751] [ERROR] default - Hash: b243cdf6061198c5b537cb15d710d5e9 of voicelogger.js does not match undefined!
+[2020-05-12T16:29:37.755] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T16:29:37.756] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T16:29:37.756] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T16:29:37.756] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T16:29:37.757] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T16:29:37.764] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T16:29:38.018] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T16:29:38.019] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 993
+[2020-05-12T16:29:38.020] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T16:29:38.042] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T16:29:38.043] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T16:29:38.398] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 355ms
+[2020-05-12T16:29:38.400] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T16:29:38.400] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T16:29:38.402] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T16:29:39.105] [DEBUG] discord4j - [WS => Shard 0] [READY] Session 10e46d075c6356e7dc9273207a5990c2.
+[2020-05-12T16:29:39.747] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T16:29:39.748] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T16:29:40.560] [INFO] default - Constants initialized:
+[2020-05-12T16:29:40.560] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T16:29:40.587] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T16:29:58.261] [INFO] default - User pressed CTRL + C, Terminating.
+[2020-05-12T16:40:51.876] [INFO] default - Started Discord bot process
+[2020-05-12T16:40:51.910] [INFO] default - Running experemental code, version 22
+[2020-05-12T16:40:51.913] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T16:40:51.916] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T16:40:51.918] [ERROR] default - Hash: c8de9a230342e5ffdd8701d2513fc19b of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T16:40:51.920] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T16:40:51.921] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T16:40:51.922] [ERROR] default - Hash: 09ce3a8456faf1fdd220c7dfdc260f31 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T16:40:51.924] [ERROR] default - Hash: d02932a9af04b6677071a0c2334fc0b3 of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T16:40:51.925] [ERROR] default - Hash: dc80355d1e230cbdaf3c2df54722d7a5 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T16:40:51.927] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T16:40:51.929] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T16:40:51.931] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T16:40:51.932] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T16:40:51.935] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T16:40:51.937] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T16:40:51.939] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T16:40:51.939] [ERROR] default - Hash: 0bdcf96cef1ae3a5974413abcd63c1c3 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T16:40:51.941] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T16:40:51.942] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T16:40:51.943] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T16:40:51.945] [ERROR] default - Hash: cbf1fe32d2ee026d24548059d3c9c269 of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T16:40:51.947] [ERROR] default - Hash: f3946da50c4fb37690b10cdbe7a93492 of voicelogger.js does not match undefined!
+[2020-05-12T16:40:51.949] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T16:40:51.949] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T16:40:51.949] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T16:40:51.951] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T16:40:51.951] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T16:40:51.957] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T16:40:52.223] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T16:40:52.225] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 992
+[2020-05-12T16:40:52.225] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T16:40:52.225] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T16:40:52.225] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T16:40:52.585] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 360ms
+[2020-05-12T16:40:52.587] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T16:40:52.587] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T16:40:52.587] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T16:40:52.802] [DEBUG] discord4j - [WS => Shard 0] [READY] Session c12d0b731de39c87f5263491b2e72686.
+[2020-05-12T16:40:53.076] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T16:40:53.078] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T16:40:53.804] [INFO] default - Constants initialized:
+[2020-05-12T16:40:53.804] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T16:40:53.806] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T16:41:18.724] [INFO] default - Started Discord bot process
+[2020-05-12T16:41:18.757] [INFO] default - Running experemental code, version 22
+[2020-05-12T16:41:18.760] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T16:41:18.762] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T16:41:18.764] [ERROR] default - Hash: c8de9a230342e5ffdd8701d2513fc19b of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T16:41:18.766] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T16:41:18.768] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T16:41:18.770] [ERROR] default - Hash: 09ce3a8456faf1fdd220c7dfdc260f31 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T16:41:18.771] [ERROR] default - Hash: d02932a9af04b6677071a0c2334fc0b3 of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T16:41:18.771] [ERROR] default - Hash: dc80355d1e230cbdaf3c2df54722d7a5 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T16:41:18.774] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T16:41:18.776] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T16:41:18.777] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T16:41:18.779] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T16:41:18.780] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T16:41:18.782] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T16:41:18.784] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T16:41:18.785] [ERROR] default - Hash: 0bdcf96cef1ae3a5974413abcd63c1c3 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T16:41:18.786] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T16:41:18.788] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T16:41:18.789] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T16:41:18.791] [ERROR] default - Hash: cbf1fe32d2ee026d24548059d3c9c269 of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T16:41:18.792] [ERROR] default - Hash: f3946da50c4fb37690b10cdbe7a93492 of voicelogger.js does not match undefined!
+[2020-05-12T16:41:18.794] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T16:41:18.795] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T16:41:18.795] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T16:41:18.796] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T16:41:18.796] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T16:41:18.803] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T16:41:19.055] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T16:41:19.055] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 991
+[2020-05-12T16:41:19.055] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T16:41:19.057] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T16:41:19.057] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T16:41:19.409] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 352ms
+[2020-05-12T16:41:19.411] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T16:41:19.411] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T16:41:19.412] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T16:41:19.602] [DEBUG] discord4j - [WS => Shard 0] [READY] Session a301687c1d290d8310b894f267423521.
+[2020-05-12T16:41:19.874] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T16:41:19.875] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T16:41:20.492] [INFO] default - Constants initialized:
+[2020-05-12T16:41:20.492] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T16:41:20.493] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T16:42:06.321] [INFO] default - Started Discord bot process
+[2020-05-12T16:42:06.358] [INFO] default - Running experemental code, version 22
+[2020-05-12T16:42:06.362] [ERROR] default - Hash: 0118d1dd5f19af0b613d8a70d46f0c08 of dynamicpoll.js does not match 3309beab0a545837fc42a734eb855e6c!
+[2020-05-12T16:42:06.364] [ERROR] default - Hash: dbac9bf2abb64b03c85034a9f9a09881 of getalias.js does not match 7be8cbce044781e8405f88312f0651ce!
+[2020-05-12T16:42:06.366] [ERROR] default - Hash: c8de9a230342e5ffdd8701d2513fc19b of help.js does not match fa4b2c6eb724af7229213cdf2246afc7!
+[2020-05-12T16:42:06.369] [ERROR] default - Hash: cc39fef45ea33ea6c664d894c803bb88 of joke.js does not match 9ee17736b9ef252f3d323bdd2f139e02!
+[2020-05-12T16:42:06.371] [ERROR] default - Hash: 8fbd7f0a1aaafc5f1d20cebce0a7bab7 of lang.js does not match 1a281a3ba8bc4c42038bde0bf728424d!
+[2020-05-12T16:42:06.372] [ERROR] default - Hash: 09ce3a8456faf1fdd220c7dfdc260f31 of listusers.js does not match f52fc5150aaf9e64e2096c82451512d7!
+[2020-05-12T16:42:06.375] [ERROR] default - Hash: d02932a9af04b6677071a0c2334fc0b3 of loguser.js does not match 7de783b40d88e82467ac73fa14b23f8f!
+[2020-05-12T16:42:06.376] [ERROR] default - Hash: dc80355d1e230cbdaf3c2df54722d7a5 of ping.js does not match 0eaf7dbec41731d68c304fbfb03464e3!
+[2020-05-12T16:42:06.378] [ERROR] default - Hash: 26b7fcef7a4aa79652d70ec1631a4316 of powerup.js does not match undefined!
+[2020-05-12T16:42:06.380] [ERROR] default - Hash: c5a999484de03e3af4a7d940f0ac86ea of purge.js does not match 589ad1f1b5004a4c46b9fcded1eaa233!
+[2020-05-12T16:42:06.382] [ERROR] default - Hash: bc01711ba95ba28d1d62f9de2333c1c4 of resumepoll.js does not match 40514e57e13e0eae5d6522b5c0a61deb!
+[2020-05-12T16:42:06.383] [ERROR] default - Hash: c82e3e484e30a5816c664607af4cf74a of rolesupdater.js does not match undefined!
+[2020-05-12T16:42:06.385] [ERROR] default - Hash: 1ba1803c714281b671f767ecf6efcec8 of sendembed.js does not match 1d0bb0e96fd0b4747f29304a19fed1d5!
+[2020-05-12T16:42:06.386] [ERROR] default - Hash: 023ccf6dcc06afa6e7055bd00f85fb06 of setalias.js does not match 9f19d2a5942cc13af99f74dd1b94f832!
+[2020-05-12T16:42:06.388] [ERROR] default - Hash: 772d6167769eb86fed0dbebfa31e64c1 of stoppoll.js does not match aa13fd0a72ce4685de38ca8455ad5da8!
+[2020-05-12T16:42:06.389] [ERROR] default - Hash: 0bdcf96cef1ae3a5974413abcd63c1c3 of submit.js does not match f3836270787cdd05619e158788fdfd69!
+[2020-05-12T16:42:06.390] [ERROR] default - Hash: 6769a5d2fbd965d17eb824f972899111 of syncnames.js does not match 5cfd9ec98183b52597e397942423f395!
+[2020-05-12T16:42:06.392] [ERROR] default - Hash: f0af6e9ac074838bb2c6c5936dea9b9d of testjoin.js does not match c5358410ba8f75bb75da4681bd20b7b8!
+[2020-05-12T16:42:06.393] [ERROR] default - Hash: 3e8411ab54597d7e26c19fa36407260e of userinfo.js does not match 36879230e4aed5dfc61e300114381ee8!
+[2020-05-12T16:42:06.394] [ERROR] default - Hash: cbf1fe32d2ee026d24548059d3c9c269 of voicelog.js does not match c9bdea71a4f60ff78bca424a8fd06f7d!
+[2020-05-12T16:42:06.396] [ERROR] default - Hash: f3946da50c4fb37690b10cdbe7a93492 of voicelogger.js does not match undefined!
+[2020-05-12T16:42:06.398] [ERROR] default - Hash: a601124af6f92004d5b881fe676fe396 of authorization.js does not match d57388fd0b91398f157174f3d2f3abc9!
+[2020-05-12T16:42:06.398] [ERROR] default - Hash: 9b5c9c7d35e1cb2b66b7d7c7af9c3984 of bot.js does not match 076f61864ecd6944bad7b342e38a322f!
+[2020-05-12T16:42:06.399] [ERROR] default - Hash: a3718b4647d94613c098d4b9006a6da5 of googleapi.js does not match 2082ef21b16b5e41f6ad123e461d382a!
+[2020-05-12T16:42:06.399] [ERROR] default - Hash: 12b43aa534aea4687bf1bbb4a2ba2895 of index.js does not match undefined!
+[2020-05-12T16:42:06.400] [ERROR] default - Hash: 7718c43b64caa0a59f5b5961dc66e9a5 of utilites.js does not match 3f2e7c35c99aaddd39f28c813ca05149!
+[2020-05-12T16:42:06.407] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T16:42:06.662] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T16:42:06.662] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 990
+[2020-05-12T16:42:06.662] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T16:42:06.664] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T16:42:06.664] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T16:42:07.010] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 346ms
+[2020-05-12T16:42:07.012] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T16:42:07.013] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T16:42:07.013] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T16:42:07.230] [DEBUG] discord4j - [WS => Shard 0] [READY] Session 9af0cc31a7f40cc4c8a946dd0992669b.
+[2020-05-12T16:42:07.868] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T16:42:07.869] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T16:42:08.415] [INFO] default - Constants initialized:
+[2020-05-12T16:42:08.415] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T16:42:08.416] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T16:44:12.151] [INFO] default - Started Discord bot process
+[2020-05-12T16:44:12.185] [INFO] default - Running experemental code, version 24
+[2020-05-12T16:44:12.189] [INFO] default - Hash of dynamicpoll.js does match 0118d1dd5f19af0b613d8a70d46f0c08.
+[2020-05-12T16:44:12.191] [INFO] default - Hash of getalias.js does match dbac9bf2abb64b03c85034a9f9a09881.
+[2020-05-12T16:44:12.193] [INFO] default - Hash of help.js does match c8de9a230342e5ffdd8701d2513fc19b.
+[2020-05-12T16:44:12.194] [INFO] default - Hash of joke.js does match cc39fef45ea33ea6c664d894c803bb88.
+[2020-05-12T16:44:12.197] [INFO] default - Hash of lang.js does match 8fbd7f0a1aaafc5f1d20cebce0a7bab7.
+[2020-05-12T16:44:12.199] [INFO] default - Hash of listusers.js does match 09ce3a8456faf1fdd220c7dfdc260f31.
+[2020-05-12T16:44:12.201] [INFO] default - Hash of loguser.js does match d02932a9af04b6677071a0c2334fc0b3.
+[2020-05-12T16:44:12.203] [INFO] default - Hash of ping.js does match dc80355d1e230cbdaf3c2df54722d7a5.
+[2020-05-12T16:44:12.204] [INFO] default - Hash of powerup.js does match 26b7fcef7a4aa79652d70ec1631a4316.
+[2020-05-12T16:44:12.207] [INFO] default - Hash of purge.js does match c5a999484de03e3af4a7d940f0ac86ea.
+[2020-05-12T16:44:12.209] [INFO] default - Hash of resumepoll.js does match bc01711ba95ba28d1d62f9de2333c1c4.
+[2020-05-12T16:44:12.211] [INFO] default - Hash of rolesupdater.js does match c82e3e484e30a5816c664607af4cf74a.
+[2020-05-12T16:44:12.212] [INFO] default - Hash of sendembed.js does match 1ba1803c714281b671f767ecf6efcec8.
+[2020-05-12T16:44:12.214] [INFO] default - Hash of setalias.js does match 023ccf6dcc06afa6e7055bd00f85fb06.
+[2020-05-12T16:44:12.216] [INFO] default - Hash of stoppoll.js does match 772d6167769eb86fed0dbebfa31e64c1.
+[2020-05-12T16:44:12.218] [INFO] default - Hash of submit.js does match 0bdcf96cef1ae3a5974413abcd63c1c3.
+[2020-05-12T16:44:12.220] [INFO] default - Hash of syncnames.js does match 6769a5d2fbd965d17eb824f972899111.
+[2020-05-12T16:44:12.221] [INFO] default - Hash of testjoin.js does match f0af6e9ac074838bb2c6c5936dea9b9d.
+[2020-05-12T16:44:12.223] [INFO] default - Hash of userinfo.js does match 3e8411ab54597d7e26c19fa36407260e.
+[2020-05-12T16:44:12.225] [INFO] default - Hash of voicelog.js does match cbf1fe32d2ee026d24548059d3c9c269.
+[2020-05-12T16:44:12.227] [INFO] default - Hash of voicelogger.js does match f3946da50c4fb37690b10cdbe7a93492.
+[2020-05-12T16:44:12.231] [INFO] default - Hash of authorization.js does match a601124af6f92004d5b881fe676fe396.
+[2020-05-12T16:44:12.232] [INFO] default - Hash of bot.js does match 9b5c9c7d35e1cb2b66b7d7c7af9c3984.
+[2020-05-12T16:44:12.233] [INFO] default - Hash of googleapi.js does match a3718b4647d94613c098d4b9006a6da5.
+[2020-05-12T16:44:12.234] [INFO] default - Hash of index.js does match 12b43aa534aea4687bf1bbb4a2ba2895.
+[2020-05-12T16:44:12.235] [INFO] default - Hash of utilites.js does match 7718c43b64caa0a59f5b5961dc66e9a5.
+[2020-05-12T16:44:12.240] [DEBUG] discord4j - Preparing to connect to the gateway...
+[2020-05-12T16:44:12.527] [DEBUG] discord4j - [WS => Manager] Fetched Gateway Information
+    URL: wss://gateway.discord.gg
+    Recommended Shards: 1
+[2020-05-12T16:44:12.528] [DEBUG] discord4j - [WS => Manager] Session Limit Information
+    Total: 1000
+    Remaining: 989
+[2020-05-12T16:44:12.530] [DEBUG] discord4j - [WS => Manager] Spawning shards: 0
+[2020-05-12T16:44:12.533] [DEBUG] discord4j - [WS => Shard 0] [CONNECT]
+    Gateway    : wss://gateway.discord.gg/
+    Version    : 6
+    Encoding   : json
+    Compression: none
+[2020-05-12T16:44:12.534] [DEBUG] discord4j - [WS => Shard 0] Setting a HELLO timeout for 20s.
+[2020-05-12T16:44:12.876] [DEBUG] discord4j - [WS => Shard 0] [CONNECTED] wss://gateway.discord.gg/?v=6&encoding=json in 341ms
+[2020-05-12T16:44:12.878] [DEBUG] discord4j - [WS => Shard 0] Clearing the HELLO timeout.
+[2020-05-12T16:44:12.879] [DEBUG] discord4j - [WS => Shard 0] Setting a heartbeat interval for 41250ms.
+[2020-05-12T16:44:12.881] [DEBUG] discord4j - [WS => Shard 0] [IDENTIFY] Shard 0/1
+[2020-05-12T16:44:13.080] [DEBUG] discord4j - [WS => Shard 0] [READY] Session b7d1457dbadcefa1926f6ca2d8697b73.
+[2020-05-12T16:44:13.581] [DEBUG] discord4j - [WS => Shard 0] Shard received all its guilds. Marking as fully ready.
+[2020-05-12T16:44:13.582] [INFO] default - Logged in as Aperture labs HTB#2174!
+[2020-05-12T16:44:14.306] [INFO] default - Constants initialized:
+[2020-05-12T16:44:14.307] [INFO] default - [
+  'Новичек',
+  'Участник',
+  'Декоратор',
+  'Модератор',
+  'Замполит',
+  'Генералус',
+  'Нарком',
+  'Основатель'
+]
+[2020-05-12T16:44:14.314] [INFO] default - [
+  'Активен',
+  'Не играет',
+  'Подлежит изгнанию',
+  'Новичек',
+  'Твинк',
+  'Изгнан',
+  'Покинул клан',
+  'Принят обратно'
+]
+[2020-05-12T16:44:27.025] [INFO] default - User pressed CTRL + C, Terminating.
