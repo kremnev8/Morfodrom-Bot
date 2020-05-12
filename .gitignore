@@ -11,8 +11,9 @@ build/*
 JSVersion/*
 node_modules/*
 .git/*
+logs/*
 
 #no config
 /config/*
 !/config/config.json
-!/config/jokes.json
+!/config/jokes.txt
