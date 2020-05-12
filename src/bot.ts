@@ -43,7 +43,10 @@ class ClientImpl extends types.AClient {
     };
 }
 
-const configPath: string = path.join(__dirname, '..', 'config');
+let configName = 'config';
+if (process.env.NODE_ENV == "production") configName = 'production';
+
+const configPath: string = path.join(__dirname, '..', configName);
 const config = util.loadJson(`${configPath}/config`);
 
 global.config = config;
