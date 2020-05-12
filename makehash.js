@@ -22,7 +22,7 @@ for (const file of exeFiles) {
     hashes[file] = hash;
 }
 
-let ver = require('os').platform() == "win32" ? "version_exp" : "version_stable";
+let ver = "version_stable"; // require('os').platform() == "win32" ? "version_exp" : "version_stable";
 
 hashes[ver] = hashes[ver] + 1;
 

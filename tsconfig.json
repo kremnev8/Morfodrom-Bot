@@ -4,8 +4,9 @@
         "allowJs": true,
         "module": "commonjs",
         "target": "es2020",
-        "sourceMap": true,
+        "sourceMap": false,
         "removeComments": true,
+        "incremental": true,
     },
     "files": [
         "./node_modules/log4js/types/log4js.d.ts",

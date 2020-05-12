@@ -7,7 +7,6 @@
 bot.code-workspace
 
 #unneeded folders
-build/*
 JSVersion/*
 node_modules/*
 .git/*
@@ -17,3 +16,7 @@ logs/*
 /config/*
 !/config/config.json
 !/config/jokes.txt
+
+#files
+*.map
+*.tsbuildinfo
